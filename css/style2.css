@@ -14,6 +14,8 @@
    
 }
 
+
+
 .logo {
     display: block;
     margin-left: auto;
@@ -50,6 +52,8 @@
     overflow:hidden;
     
 }
+
+
 a:hover{
     cursor: pointer;
 }
@@ -109,6 +113,7 @@ a:hover{
     padding-right:0%;
     /*background-color: #F5F5F5;*/
     vertical-align: middle;
+    overflow:hidden;
 }
 .box_a {
     padding-top: 7vh;
@@ -156,10 +161,17 @@ a:hover{
             .box {
             display:block;
             width: 100%;
+            height:50%;
+            
         }
     .box_a{
         height:7vw;
         padding-top:1.5vw;
+        font-size:2vw;
+        
+    }
+    .menu .box img{
+        padding-top:2.5vw;
         
     }
 }
