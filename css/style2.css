@@ -97,7 +97,7 @@ a:hover{
     width:100%;
     display:inline-block;
     /*background-color: lightgray;*/
-    position: realtive;
+    
     top:6vh;
 }
 
@@ -165,15 +165,16 @@ a:hover{
             
         }
     .box_a{
-        height:7vw;
+        height:7.5vw;
         padding-top:1.5vw;
         font-size:2vw;
         
     }
     .menu .box img{
-        padding-top:2.5vw;
+        margin-top:2.5vw;
         
     }
+
 }
 
 
